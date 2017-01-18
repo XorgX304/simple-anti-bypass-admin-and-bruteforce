@@ -1,2 +1,3 @@
 # simple-anti-bypass-admin-and-bruteforce
-Contoh Anti Bypass Admin dan Bruteforce pada login page
+
+Contoh dari cara sederhana dan efektif untuk cegah  Anti Bypass Admin dan Bruteforce pada login page
